@@ -1,0 +1,6 @@
+interface:
+  display_name: "Coding Workflow"
+  short_description: "Design, document, and ship complex code changes"
+  default_prompt: "Use $coding-workflow to take this complex coding task from discovery through implementation and a concise handoff."
+policy:
+  allow_implicit_invocation: false
